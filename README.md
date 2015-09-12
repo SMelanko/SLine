@@ -1,0 +1,2 @@
+# SLine
+Custom line edit.
