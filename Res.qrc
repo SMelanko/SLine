@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/le_exam_fail.png</file>
+	<file>img/le_pwd_checked.png</file>
+	<file>img/le_exam_ok.png</file>
+	<file>img/le_pwd_original.png</file>
+    </qresource>
+</RCC>
