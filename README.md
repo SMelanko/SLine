@@ -1,3 +1,7 @@
 # SLine
 
-![ScreenShot](https://raw.github.com/SMelanko/SLine/master/img/sm.png) Custom line edit.
+Custom line edit.
+
+## The latest snapshot
+
+<p align="center"><img src="https://raw.github.com/SMelanko/SLine/master/snap/sline.png"/></p>
